@@ -1,1 +1,1 @@
-Template
+React application template
